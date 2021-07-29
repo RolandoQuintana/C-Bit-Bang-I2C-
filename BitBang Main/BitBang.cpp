@@ -1,11 +1,4 @@
-/*
-* Copyright (c) 2021 Cirque Corp. Restrictions apply. 
-* See: www.cirque.com/sw-license
-*/
-
 #include "BitBang.h"
-
-//#include "API_CustomMeas.h"
 
 BitBang::BitBang()
 {
